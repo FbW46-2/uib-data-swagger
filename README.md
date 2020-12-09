@@ -15,13 +15,9 @@
 
 * The form should also have a checkbox which is styled as a toggle switch. 
 
-* At the end of the form, there should be an input for submit. This input field should be disabled.
+* At the end of the form, there should be an input for submit.
 
 ![reference](/images/form-reference.png)
 ![reference-form-filled](/images/form-filled.png)
-
-**Rules**
-* The form should be responsive. 
-![reference-mobile](/images/mobile.png)
 
 
